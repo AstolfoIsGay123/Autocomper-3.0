@@ -2,4 +2,4 @@ Same features as Autocomper 2.0, but removes the need for editing software by al
 
 Find more custom & advanced programs in this server, such as the upcoming and exclusive custom GPU accelerated Autocomper and Sound Model when it releases: https://discord.gg/TZaauPAwwU
 
-Hopefully this help Telegram man with his life of a comper :D
+Hopefully this helps the Telegram man with his hard life of a comper :D
